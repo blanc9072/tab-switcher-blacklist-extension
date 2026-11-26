@@ -37,5 +37,5 @@ scripts/         build helpers
 src/background/  service worker
 src/content/     content script (warning overlay)
 src/popup/       toolbar popup
-src/shared/      types shared across the extension
+src/shared/      types and helpers shared by the service worker and popup
 ```

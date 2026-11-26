@@ -20,5 +20,5 @@
       "128": "icons/icon-128.png"
     }
   },
-  "permissions": ["storage"]
+  "permissions": ["storage", "tabs"]
 }
